@@ -1,2 +1,2 @@
 # tipCalculator
-Simple tip calculator. Mostly xml practice.
+Simple tip calculator for android. Mostly xml practice.
